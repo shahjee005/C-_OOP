@@ -1,0 +1,13 @@
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\bin\Debug\netcoreapp3.1\Object-oriented -programing.exe
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\bin\Debug\netcoreapp3.1\Object-oriented -programing.deps.json
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\bin\Debug\netcoreapp3.1\Object-oriented -programing.runtimeconfig.json
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\bin\Debug\netcoreapp3.1\Object-oriented -programing.runtimeconfig.dev.json
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\bin\Debug\netcoreapp3.1\Object-oriented -programing.dll
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\bin\Debug\netcoreapp3.1\Object-oriented -programing.pdb
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\obj\Debug\netcoreapp3.1\Object-oriented -programing.csprojAssemblyReference.cache
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\obj\Debug\netcoreapp3.1\Object-oriented -programing.csproj.CoreCompileInputs.cache
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\obj\Debug\netcoreapp3.1\Object-oriented -programing.AssemblyInfoInputs.cache
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\obj\Debug\netcoreapp3.1\Object-oriented -programing.AssemblyInfo.cs
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\obj\Debug\netcoreapp3.1\Object-oriented -programing.dll
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\obj\Debug\netcoreapp3.1\Object-oriented -programing.pdb
+C:\Users\Syed\Desktop\TECHC\C#\Object-oriented -programing\obj\Debug\netcoreapp3.1\Object-oriented -programing.genruntimeconfig.cache
